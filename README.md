@@ -10,7 +10,7 @@ Download @faxriddin1129.js to your html page! And this script should be at the v
  
 ```
  </body>
- <script src="assets/js/@faxriddin1129.js.js"></script>
+ <script src="assets/js/@faxriddin1129.js"></script>
  </html>
  ```
 that's it.
