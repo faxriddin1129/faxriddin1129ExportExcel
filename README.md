@@ -2,14 +2,12 @@
 
 
 #### Step 1
-Download @faxriddin1129.js to your html page!
+Download @faxriddin1129.js to your html page! And this script should be at the very bottom of the page.
 
 ```
  <script src="assets/js/@faxriddin1129.js.js"></script>
  ```
  
-and this script should be at the very bottom of the page.
-
 ```
  </body>
  <script src="assets/js/@faxriddin1129.js.js"></script>
@@ -17,20 +15,17 @@ and this script should be at the very bottom of the page.
  ```
 that's it.
 
-
 #### Step 2
  Specify id="faxriddin1129Table" in the table tag on your page
 
 ```
-"<table id="fakhriddin1129Table"></table>"
+<table id="fakhriddin1129Table"></table>
 ```
-
-
 
 #### Step 3
 You also need to give your button an id.
 
 ```
-##### <button class="btn btn-primary" id="faxriddin1129Button">Export to Excel</button>
+<button class="btn btn-primary" id="faxriddin1129Button">Export to Excel</button>
 
 ```
