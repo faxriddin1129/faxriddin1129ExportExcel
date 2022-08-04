@@ -29,3 +29,7 @@ You also need to give your button an id.
 <button class="btn btn-primary" id="faxriddin1129Button">Export to Excel</button>
 
 ```
+
+#### Attention!
+
+It works even if you don't install the CSS file!
