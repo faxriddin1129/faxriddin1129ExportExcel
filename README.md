@@ -1,7 +1,7 @@
 # ExportExcel @faxriddin1129
 
 
-# Step 1
+#### Step 1
 Download @faxriddin1129.js to your html page!
 
  <script src="assets/js/@faxriddin1129.js.js"></script>
@@ -13,14 +13,14 @@ Download @faxriddin1129.js to your html page!
 that's it.
 
 
-# Step 2
+#### Step 2
  Specify id="faxriddin1129Table" in the table tag on your page
 
 "<table id="fakhriddin1129Table"></table>"
 
 
 
-# Step 3
+#### Step 3
 You also need to give your button an id.
 
 ##### <button class="btn btn-primary" id="faxriddin1129Button">Export to Excel</button>
