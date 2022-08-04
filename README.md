@@ -5,7 +5,8 @@
 Download @faxriddin1129.js to your html page!
 
  <script src="assets/js/@faxriddin1129.js.js"></script>
- and this script should be at the very bottom of the page.
+ 
+ ``` and this script should be at the very bottom of the page. ```
 
  </body>
  <script src="assets/js/@faxriddin1129.js.js"></script>
