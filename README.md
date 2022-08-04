@@ -23,4 +23,4 @@ that's it.
 # Step 3
 You also need to give your button an id.
 
-"<button class="btn btn-primary" id="faxriddin1129Button">Export to Excel</button>"
+<sub>. <button class="btn btn-primary" id="faxriddin1129Button">Export to Excel</button> </sub>
