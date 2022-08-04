@@ -16,11 +16,11 @@ that's it.
 # Step 2
  Specify id="faxriddin1129Table" in the table tag on your page
 
-<table id="fakhriddin1129Table"></table>
+"<table id="fakhriddin1129Table"></table>"
 
 
 
 # Step 3
 You also need to give your button an id.
 
-? <button class="btn btn-primary" id="faxriddin1129Button">Export to Excel</button>
+"<button class="btn btn-primary" id="faxriddin1129Button">Export to Excel</button>"
