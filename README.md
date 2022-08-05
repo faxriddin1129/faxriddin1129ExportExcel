@@ -13,7 +13,6 @@ Download @faxriddin1129.js to your html page! And this script should be at the v
  <script src="assets/@faxriddin1129.js"></script>
  </html>
  ```
-that's it.
 
 #### Step 2
  Specify id="faxriddin1129Table" in the table tag on your page
