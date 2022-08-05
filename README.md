@@ -5,12 +5,12 @@
 Download @faxriddin1129.js to your html page! And this script should be at the very bottom of the page.
 
 ```
- <script src="assets/js/@faxriddin1129.js"></script>
+ <script src="assets/js/@faxriddin1129.min.js"></script>
  ```
  
 ```
  </body>
- <script src="assets/@faxriddin1129.js"></script>
+ <script src="assets/@faxriddin1129.min.js"></script>
  </html>
  ```
 
