@@ -18,7 +18,7 @@ Download @faxriddin1129.js to your html page! And this script should be at the v
  Specify id="faxriddin1129Table" in the table tag on your page
 
 ```
-<table id="fakhriddin1129Table"></table>
+<table id="faxriddin1129Table"></table>
 ```
 
 #### Step 3
